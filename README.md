@@ -1,5 +1,7 @@
 # LabVIEW-SyringePump-ViciActuator-Dynamic-Control
 A dynamic phases/Array control of TSE Syringe Pump and Vici Multiposition Microelectric Valve Actuator (Models EMH and EMT with Controllers EMHCA-CE or EMTCA-CE) using LabVIEW RS232 Communications
+![image](https://user-images.githubusercontent.com/45975234/128948404-da7beb32-27c8-4af3-b319-41d5ea2952b9.png)
+
  
 Functions & Features:
 
