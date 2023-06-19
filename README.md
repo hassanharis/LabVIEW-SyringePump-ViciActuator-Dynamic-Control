@@ -3,8 +3,11 @@ A dynamic phases/Array control of TSE Syringe Pump and Vici Multiposition Microe
 
 ![image](https://user-images.githubusercontent.com/45975234/128948404-da7beb32-27c8-4af3-b319-41d5ea2952b9.png)
 
+## Demo
+![PIfB defense presentation](https://github.com/hassanharis/LabVIEW-SyringePump-ViciActuator-Dynamic-Control/assets/45975234/e90f53d5-6521-4ce3-b6cc-c93b26977ab7)
+
  
-Functions & Features:
+## Functions & Features:
 
 • Add Array having data of valve position, Solution Name, Pump rate and Target Volume or Target Time (you want to run the pump for)
 
@@ -31,3 +34,7 @@ Functions & Features:
 • Feature to save simulation data including the time duration, solution name and volume dispensed
 
 • Option to clear the simulation data
+
+![image](https://github.com/hassanharis/LabVIEW-SyringePump-ViciActuator-Dynamic-Control/assets/45975234/11762fcc-de3d-4e9d-b975-7b08ac98c246)
+
+![image](https://github.com/hassanharis/LabVIEW-SyringePump-ViciActuator-Dynamic-Control/assets/45975234/3dbbc3ce-b1f2-4cb9-8ee5-40b570e7c51c)
